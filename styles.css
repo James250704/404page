@@ -10,7 +10,7 @@ body {
 .container {
     text-align: center;
     background-color: #fff; /* 中間改為白色 */
-    padding: 100px; /* 擴大範圍 */
+    padding: 80px; 
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
