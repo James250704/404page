@@ -5,7 +5,8 @@
 
 ## 文件結構
 
-- `index.html`: 主 HTML 文件，包含頁面的結構和樣式。
+- `index.html`: 主 HTML 文件，包含頁面的結構。
+- 'style.css': 主 css 文件，包含樣式。
 
 ## 主要樣式變更
 
